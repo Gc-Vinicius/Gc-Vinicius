@@ -41,10 +41,6 @@ Construo aplicações web de ponta a ponta — do banco à interface. Atualmente
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-chi-brown.vercel.app/?username=Gc-Vinicius&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Troféus" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Gc-Vinicius&hide_border=true&theme=dark&background=0d1117&stroke=6e7681&ring=e6e6e6&fire=e6e6e6&currStreakLabel=9e9e9e" alt="Sequência" />
 </p>
 
