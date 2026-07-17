@@ -22,14 +22,18 @@ Construo aplicações web de ponta a ponta — do banco à interface. Atualmente
 
 - 🔭 Trabalhando em sistemas de gestão e conformidade normativa
 - 🌱 Aprofundando em arquitetura de software e boas práticas
-- 💬 Fale comigo sobre **Node**, **TypeScript** e **APIs**
+- 💬 Fale comigo sobre **C#/.NET**, **Node**, **Python** e **APIs**
 
 ---
 
 ### Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,react,vite,tailwind,postgres,prisma,supabase,docker&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,arduino,nestjs,nodejs,ts,py,react,vite,tailwind,postgres,mysql,prisma,supabase,docker&theme=dark&perline=8" alt="Skills" />
+</p>
+
+<p align="center">
+  <sub>Com <b>C#</b>: ASP.NET Core MVC · Razor Pages · Blazor</sub>
 </p>
 
 ---
