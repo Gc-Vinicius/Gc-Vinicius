@@ -41,7 +41,7 @@ Construo aplicações web de ponta a ponta — do banco à interface. Atualmente
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gc-Vinicius&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Troféus" />
+  <img src="https://github-profile-trophy-chi-brown.vercel.app/?username=Gc-Vinicius&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Troféus" />
 </p>
 
 <p align="center">
