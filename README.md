@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Vinícius 👋</h1>
 
 <p align="center">
-  Desenvolvedor Jr Full-Stack · Backend em NestJS · Foco em sistemas de gestão
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=9198A1&center=true&vCenter=true&width=460&height=40&lines=Desenvolvedor+Jr+Full-Stack;Backend+em+NestJS;Foco+em+sistemas+de+gest%C3%A3o" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,24 +28,9 @@ Construo aplicações web de ponta a ponta — do banco à interface. Atualmente
 
 ### Tecnologias
 
-**Backend**
-
-![NestJS](https://img.shields.io/badge/NestJS-1a1a1a?style=flat&logo=nestjs&logoColor=E0234E)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat&logo=node.js&logoColor=339933)
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat&logo=typescript&logoColor=3178C6)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-1a1a1a?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat&logo=vite&logoColor=646CFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=flat&logo=tailwindcss&logoColor=06B6D4)
-
-**Banco & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-1a1a1a?style=flat&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat&logo=supabase&logoColor=3FCF8E)
-![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat&logo=docker&logoColor=2496ED)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,react,vite,tailwind,postgres,prisma,supabase,docker&theme=dark" alt="Skills" />
+</p>
 
 ---
 
@@ -53,9 +38,18 @@ Construo aplicações web de ponta a ponta — do banco à interface. Atualmente
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-xi-ten-11.vercel.app/api?username=Gc-Vinicius&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&icon_color=6e7681&title_color=e6e6e6&text_color=9e9e9e&bg_color=0d1117" alt="Stats" />
-  <img height="165" src="https://github-readme-stats-xi-ten-11.vercel.app/api/top-langs/?username=Gc-Vinicius&layout=compact&hide_border=true&theme=dark&title_color=e6e6e6&text_color=9e9e9e&bg_color=0d1117" alt="Linguagens" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gc-Vinicius&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Troféus" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Gc-Vinicius&hide_border=true&theme=dark&background=0d1117&stroke=6e7681&ring=e6e6e6&fire=e6e6e6&currStreakLabel=9e9e9e" alt="Sequência" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gc-Vinicius/Gc-Vinicius/output/snake.svg" alt="Snake animation" />
 </p>
