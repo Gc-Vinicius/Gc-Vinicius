@@ -40,9 +40,9 @@ Construo aplicações web de ponta a ponta — do banco à interface. Atualmente
 
 ### Estatísticas
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats-xi-ten-11.vercel.app/api?username=Gc-Vinicius&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&icon_color=6e7681&title_color=e6e6e6&text_color=9e9e9e&bg_color=0d1117" alt="Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Gc-Vinicius&hide_border=true&theme=dark&background=0d1117&stroke=6e7681&ring=e6e6e6&fire=e6e6e6&currStreakLabel=9e9e9e" alt="Sequência" />
