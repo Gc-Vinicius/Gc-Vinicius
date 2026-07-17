@@ -52,8 +52,8 @@ Construo aplicações web de ponta a ponta — do banco à interface. Atualmente
 ### Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gc-Vinicius&show_icons=true&hide_border=true&theme=dark&icon_color=6e7681&title_color=e6e6e6&text_color=9e9e9e&bg_color=0d1117" alt="Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gc-Vinicius&layout=compact&hide_border=true&theme=dark&title_color=e6e6e6&text_color=9e9e9e&bg_color=0d1117" alt="Linguagens" />
+  <img height="165" src="https://github-readme-stats-xi-ten-11.vercel.app/api?username=Gc-Vinicius&show_icons=true&hide_border=true&theme=dark&icon_color=6e7681&title_color=e6e6e6&text_color=9e9e9e&bg_color=0d1117" alt="Stats" />
+  <img height="165" src="https://github-readme-stats-xi-ten-11.vercel.app/api/top-langs/?username=Gc-Vinicius&layout=compact&hide_border=true&theme=dark&title_color=e6e6e6&text_color=9e9e9e&bg_color=0d1117" alt="Linguagens" />
 </p>
 
 <p align="center">
