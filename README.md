@@ -50,6 +50,6 @@ Construo aplicações web de ponta a ponta — do banco à interface. Atualmente
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Gc-Vinicius/Gc-Vinicius/output/snake.svg" alt="Snake animation" />
-</p>
+</p> -->
