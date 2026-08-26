@@ -29,7 +29,7 @@ Construo aplicações web de ponta a ponta — do banco à interface. Atualmente
 ### Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,arduino,nestjs,nodejs,ts,py,react,vite,tailwind,postgres,mysql,prisma,supabase,docker&theme=dark&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,arduino,nestjs,nodejs,ts,py,react,vite,tailwind,postgres,mysql,redis,prisma,supabase,docker,vitest&theme=dark&perline=9" alt="Skills" />
 </p>
 
 <p align="center">
