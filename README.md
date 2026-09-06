@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Vinícius 👋</h1>
+<h1 align="center">Olá, eu sou o Vinícius</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=9198A1&center=true&vCenter=true&width=460&height=40&lines=Desenvolvedor+Jr+Full-Stack;Backend+em+NestJS;Foco+em+sistemas+de+gest%C3%A3o" alt="Typing SVG" />
