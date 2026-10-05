@@ -40,14 +40,14 @@ Construo aplicações web de ponta a ponta — do banco à interface. Atualmente
 
 ### Estatísticas
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Gc-Vinicius&show_icons=true&include_all_commits=true&count_private=true&rank_icon=default&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=9198A1&icon_color=e6e6e6&ring_color=e6e6e6&custom_title=Nível%20no%20GitHub" alt="Nível no GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gc-Vinicius&layout=compact&langs_count=6&locale=pt-br&hide_border=true&bg_color=0d1117&title_color=e6e6e6&text_color=9198A1" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gc-Vinicius&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6&rank=-C,-?" alt="Troféus" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Gc-Vinicius&hide_border=true&theme=dark&background=0d1117&stroke=6e7681&ring=e6e6e6&fire=e6e6e6&currStreakLabel=9e9e9e" alt="Sequência" />
