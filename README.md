@@ -18,11 +18,11 @@
 
 ### Sobre
 
-Construo aplicações web de ponta a ponta — do banco à interface. Atualmente trabalho em um sistema de SST (Saúde e Segurança do Trabalho), com backend em NestJS, frontend em React e infraestrutura em PostgreSQL/Supabase.
+Construo aplicações web de ponta a ponta, do banco até a interface. Atualmente trabalho em um sistema de Saúde e Segurança do Trabalho, com backend em NestJS, frontend em React e infraestrutura em PostgreSQL.
 
-- 🔭 Trabalhando em sistemas de gestão e conformidade normativa
-- 🌱 Aprofundando em arquitetura de software e boas práticas
-- 💬 Fale comigo sobre **C#/.NET**, **Node**, **Python** e **APIs**
+- Trabalhando em sistemas de gestão e conformidade normativa
+- Aprofundando em arquitetura de software e boas práticas
+- Fale comigo sobre **C#/.NET**, **Node**, **Python** e **APIs**
 
 ---
 
