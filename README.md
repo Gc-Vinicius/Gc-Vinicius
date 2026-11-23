@@ -51,10 +51,8 @@ Construo aplicações web de ponta a ponta, do banco até a interface. Atualment
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Gc-Vinicius&hide_border=true&theme=dark&background=0d1117&stroke=6e7681&ring=e6e6e6&fire=e6e6e6&currStreakLabel=9e9e9e" alt="Sequência" />
-</p> --> 
+</p> 
 
----
+--- 
+-->
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Gc-Vinicius/Gc-Vinicius/output/snake.svg" alt="Snake animation" />
-</p> -->
